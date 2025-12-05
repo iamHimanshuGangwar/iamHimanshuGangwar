@@ -32,8 +32,8 @@ I build modern, scalable, and beautiful web applications with clean code and str
 | Project | Description | Link |
 |--------|-------------|------|
 | **Portfolio Website** | My modern animated developer portfolio built with React, TailwindCSS, and Framer Motion. | https://iamhimanshugangwar2004.vercel.app |
-| **E-Commerce App** | Full-stack MERN e-commerce application with cart, authentication, and payments. | https://github.com/iamHimanshuGangwar/ecommerce |
-| **Next.js Blog Platform** | SEO-optimized blog with MDX support and modern UI built with Next.js. | https://github.com/iamHimanshuGangwar/blog-platform |
+| **Food Ordering** | Full-stack MERN food ordering application with cart, authentication, and payments. | https://github.com/iamHimanshuGangwar/food-App |
+| **Real-time Chat and Video Calling** | A full-stack web application for real-time chat and video calling, built with a modern tech stack | https://github.com/iamHimanshuGangwar/real-time-chat-video-web-application |
 
 ---
 
@@ -41,12 +41,6 @@ I build modern, scalable, and beautiful web applications with clean code and str
 
 ![Himanshu’s GitHub stats](https://github-readme-stats.vercel.app/api?username=iamHimanshuGangwar&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamHimanshuGangwar&layout=compact&theme=radical)
-
----
-
-## 🗂️ Contribution Graph  
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/FFFFFF/iamHimanshuGangwar)
 
 ---
 
