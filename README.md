@@ -35,12 +35,6 @@ I build modern, scalable, and beautiful web applications with clean code and str
 | **Food Ordering** | Full-stack MERN food ordering application with cart, authentication, and payments. | https://github.com/iamHimanshuGangwar/food-App |
 | **Real-time Chat and Video Calling** | A full-stack web application for real-time chat and video calling, built with a modern tech stack | https://github.com/iamHimanshuGangwar/real-time-chat-video-web-application |
 
----
-
-## 📈 GitHub Stats  
-
-![Himanshu’s GitHub stats](https://github-readme-stats.vercel.app/api?username=iamHimanshuGangwar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamHimanshuGangwar&layout=compact&theme=radical)
 
 ---
 
