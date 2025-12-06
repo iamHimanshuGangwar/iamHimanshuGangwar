@@ -7,7 +7,7 @@ I am a **Full-Stack Developer** specializing in **MERN** (MongoDB, Express, Reac
 I build modern, scalable, and beautiful web applications with clean code and strong architecture.
 
 - 🌱 Currently learning: *TypeScript, Next.js 14+, backend system design*  
-- 🔭 Portfolio Website: **https://himanshugangwar.vercel.app/**  
+- 🔭 Portfolio Website: **https://himanshugangwar.vercel.app**  
 - 🌍 Tech I love working with: React, Next.js, Node.js, MongoDB  
 - 📫 Reach Me: [GitHub Profile](https://github.com/iamHimanshuGangwar)
 
@@ -31,7 +31,7 @@ I build modern, scalable, and beautiful web applications with clean code and str
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **Portfolio Website** | My modern animated developer portfolio built with React, TailwindCSS, and Framer Motion. | https://iamhimanshugangwar2004.vercel.app |
+| **Portfolio Website** | My modern animated developer portfolio built with React, TailwindCSS, and Framer Motion. | https://himanshugangwar.vercel.app |
 | **Food Ordering** | Full-stack MERN food ordering application with cart, authentication, and payments. | https://github.com/iamHimanshuGangwar/food-App |
 | **Real-time Chat and Video Calling** | A full-stack web application for real-time chat and video calling, built with a modern tech stack | https://github.com/iamHimanshuGangwar/real-time-chat-video-web-application |
 
