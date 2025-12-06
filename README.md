@@ -7,7 +7,7 @@ I am a **Full-Stack Developer** specializing in **MERN** (MongoDB, Express, Reac
 I build modern, scalable, and beautiful web applications with clean code and strong architecture.
 
 - 🌱 Currently learning: *TypeScript, Next.js 14+, backend system design*  
-- 🔭 Portfolio Website: **https://iamhimanshugangwar2004.vercel.app**  
+- 🔭 Portfolio Website: **https://himanshugangwar.vercel.app/**  
 - 🌍 Tech I love working with: React, Next.js, Node.js, MongoDB  
 - 📫 Reach Me: [GitHub Profile](https://github.com/iamHimanshuGangwar)
 
