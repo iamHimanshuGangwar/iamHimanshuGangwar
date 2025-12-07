@@ -8,7 +8,7 @@ I build modern, scalable, and beautiful web applications with clean code and str
 
 - 🌱 Currently learning: *TypeScript, Next.js 14+, backend system design*  
 - 🔭 Portfolio Website: **https://himanshugangwar.vercel.app**  
-- 🌍 Tech I love working with: React, Next.js, Node.js, MongoDB  
+- 🌍 Tech I love working with: React, Node.js, Express.js, MongoDB  
 - 📫 Reach Me: [GitHub Profile](https://github.com/iamHimanshuGangwar)
 
 ---
